@@ -1,5 +1,8 @@
 _repo: Around-the-Wicket-Gate-or-a-friendly-talk-with-seekers-concerning-faith-in-the-Lord-Jesus-Chr__60669
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 60669-h/images/cover.jpg
 creator:
   author:
     agent_name: Spurgeon, C. H. (Charles Haddon)
@@ -15,6 +18,8 @@ creator:
     - https://en.wikipedia.org/wiki/Charles_Spurgeon
     - https://fi.wikipedia.org/wiki/C._H._Spurgeon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60669#Around-the-Wicket-Gate-or-a-friendly-talk-with-seekers-concerning-faith-in-the-Lord-Jesus-Chr_
 gutenberg_issued: '2019-11-11'
 gutenberg_type: Text
 identifiers:
